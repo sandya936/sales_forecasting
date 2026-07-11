@@ -61,7 +61,7 @@ Anomaly Report, Product Demand Segments — matching Task 7 exactly.
 | `analysis.ipynb` | Tasks 1–6, fully coded |
 | `app.py` | Task 7 — Streamlit dashboard |
 | `requirements.txt` | Task 7/8 — dependency list for redeployment |
-| `summary_report.docx` | Task 8 — executive report template (fill in bracketed numbers after running the notebook) |
+| `summary_report.docx` | Task 8 — executive report template  |
 | `charts/` | Output folder — populated when you run the notebook |
 
 ## Submission checklist
